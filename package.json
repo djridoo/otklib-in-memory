@@ -1,6 +1,6 @@
 {
   "name": "@otklib/in-memory",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "author": "otkd",
   "license": "MIT",
@@ -14,7 +14,7 @@
     "prepare": "husky install"
   },
   "dependencies": {
-    "@otklib/db": "^1.0.1"
+    "@otklib/db": "^1.0.2"
   },
   "devDependencies": {
     "@types/jest": "29.5.14",
